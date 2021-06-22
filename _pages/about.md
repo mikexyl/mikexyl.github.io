@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Just a guy playing around in the world of robotics"
+title: "No Nonsense an Easy Lifer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Already left ZJU, moving to NTU, update later when I settle in Singapore!
 
 I am Mike Xiangyu LIU. I am currently with [Zhejiang University](http://www.zju.edu.cn/english/) as an Research Assistant. My research focus on Robotic Perception and Navigation and Multi Robot System. Bringing robotic systems in more diversed, interesting and challenging application scenarios is my preference of research.
 
