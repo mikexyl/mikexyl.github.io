@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Just a guy playing around in the world of robotics"
+title: "No Nonsense an Easy Lifer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Already left ZJU, moving to NTU, update later when I settle in Singapore!
+
 I am Mike Xiangyu LIU. I am currently with [Zhejiang University](http://www.zju.edu.cn/english/) as an Research Assistant. My research focus on Robotic Perception and Navigation and Multi Robot System. Bringing robotic systems in more diversed, interesting and challenging application scenarios is my preference of research.
 
-I got my Master degree in Computer Control and Automation in [NTU Singapore](www.ntu.edu.sg) in 2019, an excellent university in an extremely beautiful city. Before that, I graduated from [UESTC](www.uestc.edu.cn) in 2018 with double bachelor degrees in Electronic Commerce and Electronic Engineering, where, with my excellent team, I won national championship in [Chinese national university robotic challenage](www.robomaster.com), and national first place in national university contest of [Electronic Design](http://www.nuedc-training.com.cn/). Now I am developping interesting robotic systems with [the CVG group](http://www.zjucvg.net/) in ZJU, particularly for multi robot dense mapping and navigation, related publication and presentation is coming very soon.
+I got my Master degree in Computer Control and Automation in [NTU Singapore](www.ntu.edu.sg) in 2019, an excellent university in an extremely beautiful city. Before that, I graduated from [UESTC](www.uestc.edu.cn) in 2018 with double bachelor degrees in Electronic Commerce and Electronic Engineering, where, with my excellent team, I won national championship in [Chinese national university robotic challenage](www.robomaster.com), and national first award in national university contest of [Electronic Design](http://www.nuedc-training.com.cn/). Now I am developping interesting robotic systems with [the CVG group](http://www.zjucvg.net/) in ZJU, particularly for multi-robot dense mapping and navigation, related publication and presentation is coming very soon.
 
 I take the RA work as a part of my preparation for PhD application, and a compensation for my study plan severely influenced by COVID. And I am always looking for places where I can build the most fascinating robots with the most excellent partners.
 
