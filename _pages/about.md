@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mike Xiangyu LIU. I am currently with [Nanyang Technological University Singapore](https://www.ntu.edu.sg/) as an Research Associate. My research focus on Robotic Perception, Navigation and Multi Robot System. Bringing robotic systems in more diversed, interesting and challenging application scenarios is my preference of research.
+I am Mike Xiangyu LIU. I am currently with [Nanyang Technological University Singapore](https://www.ntu.edu.sg/) as an Research Associate. My research focuses on Robotic Perception, Navigation and Multi Robot System. Building robots for more diversed, interesting and challenging application scenarios is my preference of research.
 
 I got my Master degree in Computer Control and Automation in [NTU Singapore](www.ntu.edu.sg) in 2019, an excellent university in an extremely beautiful city. Before that, I graduated from [UESTC](www.uestc.edu.cn) in 2018 with double bachelor degrees in Electronic Commerce and Electronic Engineering, where, with my excellent team, we had won national champion in [Chinese national university robotic challenage](www.robomaster.com), national first award in national university contest of [Electronic Design](http://www.nuedc-training.com.cn/) and several other competitions. In 2020, I was with the CVG Lab in ZJU, developping mainly multi robot mapping system. Now I am building interesting robots with [Prof. Danwei Wang](https://personal.ntu.edu.sg/edwwang/) in NTU.
 
