@@ -34,7 +34,7 @@ Competitions
 [more](../projects/rm/index.md)
 
 
-<div class="notice--primary" style="float: left"><p><a href="../projects/jdx"><img src="/images/jdx.png" alt="JDX" height="45%" width="45%" style="float: left; padding-right: 20px"></a> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;" href="../projects/jdx" title="JDX Project Page">JDX Auto-Sorting Robot</a></h2><p>Junru Chen*, Xiangyu Liu*, Shiwei Wu*, Xvsheng Ren*, Fanglin Zhang*<br> <strong>JD X Robotic Challenge 2017</strong></p></div>
+<div class="notice--primary" style="float: left"><p><img src="/images/jdx.png" alt="JDX" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;" title="JDX Project Page">JDX Auto-Sorting Robot</a></h2><p>Junru Chen*, Xiangyu Liu*, Shiwei Wu*, Xvsheng Ren*, Fanglin Zhang*<br> <strong>JD X Robotic Challenge 2017</strong></p></div>
 
 [more](../projects/jdx/index.md)
 

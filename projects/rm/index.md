@@ -14,11 +14,11 @@ Our competition UAV and its manipulator:
 
 <div style="text-align:center">
 <figure>
-<img src="M100.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/rm/M100.png" alt="drawing" width="400"/>
   <figcaption>Drawings of our RoboMasters UAV</figcaption>
 </figure>
 <figure>
-<img src="arm_patent.png" alt="parallel manipulator" width="400"/>
+<img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/rm/arm_patent.png" alt="parallel manipulator" width="400"/>
   <figcaption>Drawings of our manipulator</figcaption>
 </figure>
 </div>
@@ -33,11 +33,11 @@ As last, we achieved the highest ball catching efficiency in competition and eff
 
 <div style="text-align:center">
 <figure>
-<img src="IMG_0453.GIF" alt="grabbing balls" width="400"/>
+<img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/rm/IMG_0453.GIF" alt="grabbing balls" width="400"/>
   <figcaption>UAV grabbing balls</figcaption>
 </figure>
 <figure>
-<img src="IMG_0454.GIF" alt="dropping" width="400"/>
+<img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/rm/IMG_0454.GIF" alt="dropping" width="400"/>
   <figcaption>UAV dropping balls</figcaption>
 </figure>
 </div>

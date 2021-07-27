@@ -17,22 +17,22 @@ A set of distance sensors were utilized for better accuracy of operation and saf
 
 <div style="text-align:center">
 <figure>
-  <img src="./jdx_drawing.png" alt="drawing" width="400"/>
+  <img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/jdx/jdx_drawing.png" alt="drawing" width="400"/>
   <figcaption>Drawings of our JDX auto-sorting robot</figcaption>
 </figure>
 
 <figure>
-  <img src="./jdx_final.jpg" alt="final product" width="400"/>
+  <img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/jdx/jdx_final.jpg" alt="final product" width="400"/>
   <figcaption>picture of our final product</figcaption>
 </figure>
 
 <figure>
-  <img src="./move1.gif" alt="move1" width="400"/>
+  <img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/jdx/move1.gif" alt="move1" width="400"/>
   <figcaption>JDX robot grabbing boxes</figcaption>
 </figure>
 
 <figure>
-  <img src="./move2.gif" alt="move2" width="400"/>
+  <img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/jdx/move2.gif" alt="move2" width="400"/>
   <figcaption>JDX robot stacking boxes</figcaption>
 </figure>
 </div>
