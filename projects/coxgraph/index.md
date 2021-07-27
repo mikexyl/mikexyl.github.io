@@ -1,3 +1,12 @@
+---
+permalink: /coxgraph/
+title: "No Nonsense an Easy Lifer"
+excerpt: "Coxgraph"
+author_profile: true
+redirect_from: 
+  - /coxgraph/
+  - /coxgraph.html
+---
 # Coxgraph: Multi-robot Collaborative, Globally Consistent, Online Dense Reconstruction System
 
 Motivation:
