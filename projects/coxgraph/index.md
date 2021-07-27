@@ -22,3 +22,13 @@ PDF is available [here](./Coxgraph.pdf).
 <!-- <iframe width="420" height="315"
 src="https://www.youtube.com/embed/Anl3F4vFiME">
 </iframe> -->
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/Anl3F4vFiME"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
