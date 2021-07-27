@@ -1,6 +1,5 @@
----
-title: "JDX Robotics Challenge"
----
+# JDX Robotics Challenge
+
 
 We won the National Bronze in JDX Robotics Challenge 2017. Held by JD.COM, one of theleading online shopping companies in China, it focused on the industry of smart logistics.
 Thechallenge topic we chose is auto-sorting, as the task can be describe as such:

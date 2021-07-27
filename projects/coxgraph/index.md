@@ -1,6 +1,4 @@
----
-title: "Coxgraph: Multi-robot Collaborative, Globally Consistent, Online Dense Reconstruction System"
----
+# Coxgraph: Multi-robot Collaborative, Globally Consistent, Online Dense Reconstruction System
 
 Motivation:
 There exist two major challenges for online multi robot dense reconstruction:
@@ -18,7 +16,6 @@ Contribution:
 2. We present a compact transmission representation  
 which enables transmitting local 3D submaps %which transfer SDF maps with minimal bandwidth requirement.
 3. Our system achieves global consistency across robots, by extending online map fusion optimization and loop closure correction methods.
-
 
 PDF is available [here](./Coxgraph.pdf).
 

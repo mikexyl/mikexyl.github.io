@@ -1,6 +1,4 @@
----
-title: "RoboMasters National University Robotics Competition"
----
+# RoboMasters National University Robotics Competition
 
 In 2015/2016, our team won the national champion of [RoboMasters](https://www.robomaster.com/en-US), which is an exciting and competitive robot battle competition series held by DJI and MoE of China.
 Our team of 15 undergraduates are required to design a series of robots attacking opponents, including 4 models of ground robots, one drone and their necessary standby duplicates.
