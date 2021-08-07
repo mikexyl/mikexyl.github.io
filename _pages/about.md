@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "def meet_me:"
+title: "def meet_me(you):"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
