@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "No Nonsense an Easy Lifer"
+title: "def meet_me:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
