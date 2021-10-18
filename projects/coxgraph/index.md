@@ -18,6 +18,8 @@ which enables transmitting local 3D submaps %which transfer SDF maps with minima
 3. Our system achieves global consistency across robots, by extending online map fusion optimization and loop closure correction methods.
 
 PDF is available [here](./Coxgraph.pdf).
+This work is in IROS 2021 Best Paper Award Finalist on Safety, Security, and Rescue Robotics
+
 
 <!-- <iframe width="420" height="315"
 src="https://www.youtube.com/embed/Anl3F4vFiME">
