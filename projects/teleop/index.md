@@ -5,4 +5,13 @@ Our teleoperation platform can provide visual and force feedback in realtime.
 Project is undergoing and details under patent.
 
 Here is a video from NTU official youtube channel
-[![AESV](https://img.youtube.com/vi/littBmSqiQo/0.jpg)](https://www.youtube.com/watch?v=littBmSqiQo)
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/littBmSqiQo"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>

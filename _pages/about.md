@@ -27,7 +27,7 @@ Projects
 
 [more](../projects/teleop/index.md) -->
 
-<div class="notice--primary" style="float: left"><p><img src="/images/coxgraph.png" alt="teleop" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;"  title="Coxgraph Project Page">Autonomous Environmental Service Vehicle</a></h2><p><br> <strong></strong></p></div>
+<div class="notice--primary" style="float: left"><p><img src="/projects/teleop/aesv.png" alt="teleop" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;"  title="Coxgraph Project Page">Autonomous Environmental Service Vehicle</a></h2><p><br> <strong></strong></p></div>
 
 
 [more](../projects/teleop/index.md)
