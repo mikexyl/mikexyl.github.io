@@ -6,7 +6,7 @@ One of the product from the project is a highly flexible range finder sensor whi
 
 <div style="text-align:center">
 <figure>
-  <img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/dlidar/drone_with_dlidar.png" alt="drawing" width="400"/>
+  <img src="/projects/dlidar/drone_with_dlidar.jpg" alt="drawing" width="400"/>
   <figcaption>Drone equipped with distributed LiDAR embedded inside propeller guard</figcaption>
 </figure>
 
@@ -14,9 +14,16 @@ We have another model of which its circuit is made by flexible material. It can 
 
 <div style="text-align:center">
 <figure>
-  <img src="https://raw.githubusercontent.com/LXYYY/lxyyy.github.io/master/projects/dlidar/robotarm_with_dlidar.png" alt="drawing" width="400"/>
+  <img src="/projects/dlidar/robotarm_with_dlidar.jpg" alt="drawing" width="400"/>
   <figcaption>Robot arm equipped with our flexible range finder</figcaption>
 </figure>
 
-
-[![dlidar](https://img.youtube.com/vi/AuBEXhFSew4/0.jpg)](https://www.youtube.com/watch?v=AuBEXhFSew4)
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/AuBEXhFSew4"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
