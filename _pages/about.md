@@ -18,12 +18,17 @@ Projects
 ========
 
 
-<div class="notice--primary" style="float: left"><p><img src="https://img.youtube.com/vi/littBmSqiQo/0.jpg" alt="Coxgraph" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;"  title="AESV Project Page">Autonomous Environmental Service Vehicle <br> <strong>Vehicle Teleoperation with Feedback</strong></p></div>
+<div class="notice--primary" style="float: left">
+<p>
+<img src="https://img.youtube.com/vi/littBmSqiQo/0.jpg" alt="Coxgraph" height="45%" width="45%" style="float: left; padding-right: 20px">
+</p>
+<h2 style="margin-top:-10px"> 
+<a style="text-decoration:none; color:#494e52;"  title="AESV Project Page">Autonomous Environmental Service Vehicle</a></h2><p> <br> <strong>Vehicle Teleoperation with Realtime Feedback</strong></p></div>
 
 [more](../projects/teleop/index.md)
 
 
-<div class="notice--primary" style="float: left"><p><img src="https://img.youtube.com/vi/AuBEXhFSew4/0.jpg" alt="Coxgraph" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;"  title="DLiDAR Project Page">Distributed LiDAR: Low-Cost Full-Angle Laser Range Finder <br> <strong></strong></p></div>
+<div class="notice--primary" style="float: left"><p><img src="https://img.youtube.com/vi/AuBEXhFSew4/0.jpg" alt="Coxgraph" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;"  title="DLiDAR Project Page">Distributed LiDAR: Low-Cost Full-Angle Laser Range Finder</a></h2><p> <br> <strong></strong></p></div>
 
 [more](../projects/dlidar/index.md)
 
