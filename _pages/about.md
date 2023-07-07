@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Updated CV here: [CV](https://drive.google.com/file/d/1-WQRVgxDZFZ8NqhziVrR8y22HCIWD890/view?usp=sharing)
+
 Projects
 ========
 
