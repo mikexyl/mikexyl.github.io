@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="research-detail post">
+  <a class="back-link" href="{{ '/projects/' | relative_url }}"><span aria-hidden="true">←</span> All projects</a>
+  <header class="post-header">
+    <p class="section-kicker">{{ page.venue | escape }}</p>
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.authors %}<p class="project-authors">{{ page.authors | escape }}</p>{% endif %}
+    {% if page.award %}<p class="project-award">{{ page.award | escape }}</p>{% endif %}
+    {% if page.resources %}
+      <div class="intro-links project-resources">
+        {% for resource in page.resources %}
+          <a class="action-link" href="{% if resource.url contains '://' %}{{ resource.url }}{% else %}{{ resource.url | relative_url }}{% endif %}">{{ resource.label | escape }} <span aria-hidden="true">↗</span></a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+  <div class="research-content">{{ content }}</div>
+</article>

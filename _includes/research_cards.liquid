@@ -1,0 +1,17 @@
+{% assign research_projects = site.projects | sort: 'importance' %}
+<div class="research-grid">
+  {% for project in research_projects %}
+    <article class="research-card">
+      <a class="research-image" href="{{ project.url | relative_url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ project.img | relative_url }}" alt="" width="640" height="400" loading="lazy">
+      </a>
+      <div class="research-card-body">
+        <p class="project-label">{{ project.venue | escape }}</p>
+        <h3><a href="{{ project.url | relative_url }}">{{ project.short_title | escape }}</a></h3>
+        {% if project.authors %}<p class="project-summary">{{ project.authors | escape }}</p>{% endif %}
+        {% if project.award %}<p class="project-award">{{ project.award | escape }}</p>{% endif %}
+        <a class="project-link" href="{{ project.url | relative_url }}" aria-label="View {{ project.short_title | escape }}">Project <span aria-hidden="true">↗</span></a>
+      </div>
+    </article>
+  {% endfor %}
+</div>

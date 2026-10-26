@@ -1,16 +1,12 @@
 ---
-layout: archive
-title: "Publications"
+layout: page
+title: publications
 permalink: /publications/
-author_profile: true
+description: Research on distributed optimization and collaborative 3D mapping.
+nav: true
+nav_order: 2
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="publications">
+{% bibliography %}
+</div>

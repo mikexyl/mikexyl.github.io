@@ -1,27 +1,32 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "def meet(me):"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+description: Robotics, collaborative SLAM, and multi-robot systems.
+subtitle: Robotics Engineer / Student / Researcher
+profile:
+  align: right
+  image: profile.png
+  image_circular: true
+social: false
+selected_papers: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Updated CV here: [CV](https://drive.google.com/file/d/12-vMRZpLLHKk7fQvez_pARRcutQIrjLc/view?usp=sharing)
+<div class="intro-links">
+  <a class="action-link" href="{{ site.cv_url }}">CV <span aria-hidden="true">↗</span></a>
+  <a class="action-link" href="https://github.com/{{ site.github_username }}">GitHub <span aria-hidden="true">↗</span></a>
+  <a class="action-link" href="mailto:{{ site.email }}">Email <span aria-hidden="true">↗</span></a>
+</div>
 
-Project
-========
-
-<div class="notice--primary" style="float: left"><p><img src="/projects/code-slam/code_slam_teaser.png" alt="CoDE-SLAM" height="45%" width="45%" style="float: left; padding-right: 20px"></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;" title="CoDE-SLAM Project Page">CoDE-SLAM</a></h2><p><strong>Coming soon.</strong></p></div>
-
-[more](../projects/code-slam/index.md)
-
-<div class="notice--primary" style="float: left"><p><img src="/projects/cbs/teaser.png" alt="CBS" height="45%" width="45%" style="float: left; padding-right: 20px"></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;" title="CBS Project Page">Distributed Pose Graph Optimization via Contractive Belief Sharing</a></h2><p>Xiangyu Liu, Margarita Chli <br> <strong>IEEE Robotics and Automation Letters (RA-L), 2025</strong></p></div>
-
-[more](../projects/cbs/index.md)
-
-<div class="notice--primary" style="float: left"><p><img src="/images/coxgraph.png" alt="Coxgraph" height="45%" width="45%" style="float: left; padding-right: 20px"> <!-- ## Freetures: Localization in Signed Distance Function Maps --></p><h2 style="margin-top:-10px"> <a style="text-decoration:none; color:#494e52;"  title="Coxgraph Project Page">Coxgraph: Multi-robot Collaborative, Globally Consistent, Online Dense Reconstruction System</a></h2><p>Xiangyu Liu, Weicai Ye, Chaoran Tian, Hujun Bao and Guofeng Zhang <br> <strong>IROS 2021 Best Paper Award
-Finalist on Safety, Security, and Rescue Robotics in memory of Motohiro Kisoi</strong></p></div>
-
-[more](../projects/coxgraph/index.md)
+<section class="research-section" aria-labelledby="projects-heading">
+  <div class="section-heading">
+    <div>
+      <h2 id="projects-heading">Projects</h2>
+    </div>
+    <a class="text-link" href="{{ '/publications/' | relative_url }}">Publications <span aria-hidden="true">↗</span></a>
+  </div>
+  {% include research_cards.liquid %}
+</section>
